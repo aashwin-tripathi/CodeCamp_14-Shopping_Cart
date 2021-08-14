@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_14-Shopping_Cart/static/css/main.8db4b5e8.chunk.css",
+    "main.js": "/CodeCamp_14-Shopping_Cart/static/js/main.670af2e4.chunk.js",
+    "main.js.map": "/CodeCamp_14-Shopping_Cart/static/js/main.670af2e4.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_14-Shopping_Cart/static/js/runtime-main.15a3cb6a.js",
+    "runtime-main.js.map": "/CodeCamp_14-Shopping_Cart/static/js/runtime-main.15a3cb6a.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/CodeCamp_14-Shopping_Cart/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/CodeCamp_14-Shopping_Cart/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/CodeCamp_14-Shopping_Cart/index.html",
+    "precache-manifest.e3385fb23f0d1a364e8999bd55d113cb.js": "/CodeCamp_14-Shopping_Cart/precache-manifest.e3385fb23f0d1a364e8999bd55d113cb.js",
+    "service-worker.js": "/CodeCamp_14-Shopping_Cart/service-worker.js",
+    "static/css/main.8db4b5e8.chunk.css.map": "/CodeCamp_14-Shopping_Cart/static/css/main.8db4b5e8.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/CodeCamp_14-Shopping_Cart/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a3cb6a.js",
+    "static/js/2.4904b4fd.chunk.js",
+    "static/css/main.8db4b5e8.chunk.css",
+    "static/js/main.670af2e4.chunk.js"
+  ]
+}
